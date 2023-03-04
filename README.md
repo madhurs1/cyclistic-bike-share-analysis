@@ -77,22 +77,23 @@ To prepare our data we have some fundamental questions that will guide us throug
 
 Guiding questions
 
-1. Where is our data located?
+1. Where is our data located?                                                                                                                                 
 A- Our  data is located on a public server and is provided by Motivate International Inc. under license. 
 
-2. How is the data organized?
+2. How is the data organized?                                                                                                                                
 A- The data is organized in a relational columns and rows table as a .CSV file format.
 
-3. Are there issues with bias or credibility in this data? Does your data ROCCC?
+3. Are there issues with bias or credibility in this data? Does your data ROCCC?                                                                             
 A- The data does follow ROCCC which is Reliable, Original, Comprehensive, Current, Cited. Since it is a public data taken from real world uses of a real        company. So the given data is reliable, original. And since the data contains every metric needed for a good data gathering operation it is comprehensive    as well. Also the data that is provided is of just past year it is current as well. Also since it is a public data it is cited as well. 
 
-4. How are you addressing licensing, privacy, security, and accessibility?
+4. How are you addressing licensing, privacy, security, and accessibility?                                                                                   
 A- The licensing for the data is provided since it is a public data. For the privacy all the personal identifications of the customer is removed so it          follows privacy concern well. Security aspect is cited since it is provided by a reliable source with citations. Accessibility is provided by the public      availability of the data.
-5. How did you verify the data’s integrity?
+
+5. How did you verify the data’s integrity?                                                                                                                   
 A- The data's integrity is verified by looking at the citations and going through the data itself.
 
-6. How does it help you answer your question?
+6. How does it help you answer your question?                                                                                                                 
 A- The data has detailed observations of activities of the customers. And so it will be helpful to us to make good observations through data.
 
-7. Are there any problems with the data?
+7. Are there any problems with the data?                                                                                                                     
 A- There are some missing and duplicate data in the tables but it shouldn't be a problem in our analysis.
