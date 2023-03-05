@@ -97,3 +97,22 @@ A- The data has detailed observations of activities of the customers. And so it 
 
 7. Are there any problems with the data?                                                                                                                     
 A- There are some missing and duplicate data in the tables but it shouldn't be a problem in our analysis.
+
+
+## Process
+
+Now we have to process the data to clean, organize and process the data for analysis.
+
+Guiding questions for our data processing.
+
+1. What tools are you choosing and why?                                                                                                                        
+A- Here for processing as well as for the other steps of our data analysis we are going to use Microsoft Excel.
+
+2. Have you ensured your data’s integrity?                                                                                                                    
+A- Yes i have ensured data's integrity. The data integrity has 3 aspects for it, being accuracy, completeness and consistency. The data is accurate since it is cited and made public. The data is also complete as it contains all the needed parameters for this analysis. it is also consistent since it is organized in a consistent format.
+
+3. What steps have you taken to ensure that your data is clean?                                                                                               
+A- I have checked for duplicates in data and found non. Also there are some nil data in tables but we can choose to ignore them since they would not be necessary for our analysis. Also since we are using MS-Excel, the original .CSV file from source is opened in excel. In the next step i have added two different columns in the table, one depicting ride length for every individual ride taken. Second column depicts the day of the week that the ride had occurred.
+
+4. How can you verify that your data is clean and ready to analyze?                                                                                            
+A- Since the data has been checked for duplicates and done some necessary calculations we can check and verify for it's organization for analysis step.
